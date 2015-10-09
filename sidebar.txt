@@ -17,7 +17,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/aiw|Ethnologue data]]
 
-
 **Resources**
 
   * [[aiw:obs|Open Bible Stories (aiw)]]
