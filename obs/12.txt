@@ -22,7 +22,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?direct&}}**ኮዖዛንክሳዓቢብሬዜኬትሞሶሶምሽዎእሳቓኬሊሌናምእስሬልቴኬግብፅኤዴንትዎክዜንማዓስሴ፤ካንካንግብፅኤድናኬዔምሼድንካንኬዔንማዓትክዬ።**
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?direct&}}ሳዓቢ ሙሴን ጼዔርንዜን ኣዓንይት ክ ኣፕቴምሽኬ ኖቔናሜሬ ክ ካሽቴምሽክ ኬዔዜ፤ ኮዖዛንኬሬ ሳዓቢ ኖቔንት ሞልትክ ሙኬርድንዳ ጎዖጊ ማዓትቴምሽ ኖቔናም ዦጋ ምዝዜንኬ ብቴዜንክ ኮ ሃችቴምሽ ኮዖም ማዓስሴ።
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?direct&}}
+
+ሳዓቢ ሙሴን ጼዔርንዜን ኣዓንይት ክ ኣፕቴምሽኬ ኖቔናሜሬ ክ ካሽቴምሽክ ኬዔዜ፤ ኮዖዛንኬሬ ሳዓቢ ኖቔንት ሞልትክ ሙኬርድንዳ ጎዖጊ ማዓትቴምሽ ኖቔናም ዦጋ ምዝዜንኬ ብቴዜንክ ኮ ሃችቴምሽ ኮዖም ማዓስሴ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?direct&}}
 
