@@ -1,25 +1,13 @@
-//Translation for the unfoldingWord mobile app interface//
+ሞባይልግር (ኡንጋአልቔኬትክ) ዉርስንትካን፡-
 
-//በሞባይል ቴሌፎን ጥቅም ላይ የሚውል የተገለጠው ቃል ትርጉም //
-
-Select a language: ቋንቋ ምረጥ
-
-Chapters: ምዕራፎች
-
-Languages: ቋንቋዎች
-
-Next chapter : የሚቀጥለው ምዕራፍ
-
-OK : ይሁን
-
-Cancel : ይሰረዝ
-
-Save locally : በአካባቢህ ይቀመጥ
-
-Save this string: ይህን ስትሪንግ አስቀምጠው
-
-Save this language locally for offline use: ኢንተርኔት ሳይኖር ለመጠቀም ይህን ቋንቋ በአካባቢህ አስቀምጠው
-
-Remove locally : ከአካባቢህ አስወግደው
-
-Remove this string: ኢንተርኔት ሳይኖር ከምትጠቀምበት ማስቀመጫ ይህን ቋንቋ አስወግደው። ለወደፊቱ ልትጠቀምበት ከፈለግህ የኢንተርኔት መስመር ሊኖርህ ይገባል።
+  - አራፓም እድካ (select a language)
+  - ማጻዓፕንት ዬዲ  እድካ (Chapters)
+  - ጋላ ጋላ ኬዔዛ( languages)
+  - ኦስ ብሬዜን ሃዓዳክ ዬዲና (Next chapter)
+  - ዳዓን (ኮ ማዓታን) OK
+  - ካይስካ (Cancel)
+  - ፔጫንትግር ኮ ዎዖንድምሽ ዎትካ(Save locally)
+  - ስትሪንግ ጋዓርዳኬትግር ዎትካ (Save this string)
+  - ኢንቴርኔት ዎዖናያኬትክ ዉርስንትካን ማዓድምሽ ዎትካ
+  - ፔጫንትግር ኮ ዎዖንቴምሽ ሃ ዎዖጃቓኬታም ካይስካ
+  - ኢንቴርኔት ዳካኬንክ ዉርስንትካን ሃ ዎዖጃቓኬትግራንክ ካይስካ፡፡ ኦስ ብሬዜን ዉርስካን ሃ ዝግዝንክ ኢንቴርኔት ዶዖቕድንዴትዜን ማዓዴ፡፡
